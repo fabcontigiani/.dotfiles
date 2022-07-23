@@ -1,10 +1,7 @@
 regolith.look.path: /usr/share/regolith-look/gruvbox
-gtk.theme_name:	Gruvbox-Dark-BL
 gnome.terminal.font: UbuntuMono Nerd Font 14
 gtk.document_font_name:	Ubuntu Regular 12
 gtk.font_name: Ubuntu Regular 12
 gtk.monospace_font_name: UbuntuMono Nerd Font 12
 i3xrocks.value.font: Ubuntu Nerd Font 12
-i3-wm.program.1: /usr/bin/flameshot
-i3-wm.program.2: /usr/bin/discord
-i3-wm.program.3: /usr/bin/spotify
+i3-wm.program.1: /usr/bin/xmodmap ~/.Xmodmap
